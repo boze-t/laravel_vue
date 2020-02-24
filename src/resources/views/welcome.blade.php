@@ -7,5 +7,6 @@
         <title>Laravel</title>
     </head>
     <body>
+        <script src="/js/index.js"></script>
     </body>
 </html>
